@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Solana Hacker House",
+    "startDate": "2022-07-02",
+    "endDate": "2022-07-06",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "link": "https://solana.com/events/belgrade-hacker-house",
+    "twitter": "https://twitter.com/hackerhouses"
+  },
+  {
+    "name": "WEB3CONF INDIA",
+    "startDate": "2022-08-12",
+    "endDate": "2022-08-14",
+    "city": "Goa",
+    "country": "India",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "link": "https://web3confindia.xyz/#home",
+    "twitter": "https://twitter.com/web3conf_india"
+  },
+  {
+    "name": "Solana Breakpoint",
+    "startDate": "2022-11-04",
+    "endDate": "2022-11-07",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "link": "https://solana.com/breakpoint",
+    "twitter": "https://twitter.com/SolanaConf"
+  },
+  {
+    "name": "ETHCC",
+    "startDate": "2022-07-19",
+    "endDate": "2022-07-21",
+    "city": "Paris",
+    "country": "France",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "link": "https://ethcc.io/",
+    "twitter": "https://twitter.com/ethcc"
+  }
+]
