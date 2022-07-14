@@ -1,42 +1,182 @@
 [
   {
-    "name": "Solana Hacker House",
-    "startDate": "2022-07-02",
-    "endDate": "2022-07-06",
-    "city": "Belgrade",
-    "country": "Serbia",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "link": "https://solana.com/events/belgrade-hacker-house",
-    "twitter": "https://twitter.com/hackerhouses"
-  },
-  {
-    "name": "WEB3CONF INDIA",
-    "startDate": "2022-08-12",
-    "endDate": "2022-08-14",
-    "city": "Goa",
-    "country": "India",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "link": "https://web3confindia.xyz/#home",
-    "twitter": "https://twitter.com/web3conf_india"
-  },
-  {
-    "name": "Solana Breakpoint",
-    "startDate": "2022-11-04",
-    "endDate": "2022-11-07",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "link": "https://solana.com/breakpoint",
-    "twitter": "https://twitter.com/SolanaConf"
-  },
-  {
     "name": "ETHCC",
     "startDate": "2022-07-19",
     "endDate": "2022-07-21",
     "city": "Paris",
     "country": "France",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description": "The Ethereum Community Conference (EthCC) is the largest annual European Ethereum event focused on technology and community. Three intense days of conferences, networking and learning.",
     "link": "https://ethcc.io/",
     "twitter": "https://twitter.com/ethcc"
+  },
+  {
+    "name": "Blockchain Economy Istanbul Sum",
+    "startDate": "2022-07-27",
+    "endDate": "2022-07-29",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "description": "Blockchain Economy Istanbul Summit is Eurasia's largest ever blockchain event bringing together the key players of crypto industry and experts to redefine the future of finance. The 4th edition of the Blockchain Economy Summit will take place during two days in Istanbul on July 27-28, 2022 with the world's top crypto companies and blockchain entrepreneurs. Istanbul is among the oldest, historically and culturally wealthy cities of the world. Since the Byzantine era the city remains to be economically, financially important trade center in the world with wide variety of promising opportunities. Today, 16% of Türkiye's population -13,6 mln people, own crypto, which makes Türkiye one of the largest crypto owning countries in the world. Thus, Blockchain Economy Istanbul Summit will be the Main gathering in the region on behalf of the world of blockchain and cryptocurrency, with a wide range of topics focused on the financial technologies of the future, extensive networking opportunities and participation from more than 55 countries.",
+    "link": "https://blockchaineconomy.istanbul/en",
+    "twitter": "https://twitter.com/BEconomy_HQ/"
+  },
+  {
+    "name": "Solana Hacker House | Seoul",
+    "startDate": "2022-08-03",
+    "endDate": "2022-08-07",
+    "city": "Seoul",
+    "country": "Korea",
+    "link": "https://solana.com/events/seoul-hacker-house",
+    "twitter": "https://twitter.com/hackerhouses",
+    "description": "The Solana Foundation x Wormhole Seoul Hacker House is a five-day OFFLINE event with in-person guidance from core Solana Labs engineers, as well as mentorship from other partners. Hacker Houses are free and open to all people (both developers and non-developers)."
+  },
+  {
+    "name": "Solana Hacker House | Krakow",
+    "startDate": "3 August 2022",
+    "endDate": "7 August 2022",
+    "city": "Krakow",
+    "country": "Poland",
+    "link": "https://solana.com/events/krakow-hacker-house",
+    "twitter": "https://twitter.com/hackerhouses",
+    "description": "The Solana Foundation x Jump Hacker Houses is a five-day offline event with in-person guidance from core Solana Labs engineers, as well as mentorship from other partners. "
+  },
+  {
+    "name": "BUIDL Asia 2022",
+    "startDate": "4 August 2022",
+    "endDate": "5 August 2022",
+    "city": "Seoul",
+    "country": "Korea",
+    "link": "https://www.buidl.asia/",
+    "twitter": "https://twitter.com/buidl_asia",
+    "description": "Hosted and organized by KryptoSeoul, BUIDL Asia 2022 is the ultimate opportunity to interact among developers, communities, and businesses across the globe. BUIDL Asia 2022 will provide you with the latest insights and developments from the most innovative and talented minds.\n\nAs a tech-focused conference, BUIDL Asia 2022 will focus 100% on the builders and technology and 0% on hype and speculation. BUIDL Week is mainly comprised of HackAtom Seoul, BUIDL Asia 2022 conference, and ETH Seoul. Please join us and let's BUIDL together!"
+  },
+  {
+    "name": "ETH Seoul",
+    "startDate": "5 August 2022",
+    "endDate": "7 August 2022",
+    "city": "Seoul",
+    "country": "Korea",
+    "link": "http://ethseoul.org/",
+    "twitter": "https://twitter.com/kryptoseoul",
+    "description": "ETH Seoul 2022 is an upcoming Ethereum and blockchain-focused event that aims to bring together some of the brightest minds in the industry to discuss, redefine, and celebrate the future of blockchain. The event is expected to happen right in the heart of Seoul and will feature a series of keynotes, panel discussions, pitch competitions, investor meet-ups, and world-class networking opportunities for all those attendees.\n\nETH Seoul is scheduled in two phases. The first phase which is the IRL part of the event is scheduled from August 5th to August 7th. The second phase will be conducted virtually which is scheduled from August 8th to August 13th. The ETH Seoul event will be co-organized by Kryptoseoul and Dystopia Labs. Kryptoseoul is a South Korea-based community building and marketing team, headed by a group of professional communicators, marketers, and analysts. Dystopia Labs is a San Francisco-based start-up studio that focuses on blockchain events and has organized a multitude of such events."
+  },
+  {
+    "name": "KOREA BLOCKCHAIN WEEK 2022",
+    "startDate": "7 August 2022",
+    "endDate": "12 August 2022",
+    "city": "Seoul",
+    "country": "Korea",
+    "link": "http://koreablockchainweek.com/",
+    "twitter": "https://twitter.com/kbwofficial",
+    "description": "Hosted by FactBlock and co-hosted by Hashed, Korea Blockchain Week 2022 is a premier crypto and blockchain event bringing together the brightest minds of the industry to discuss, redefine, and celebrate the future of finance.\n\nRight in the heart of Seoul, the action-packed event features inspirational keynotes, panel discussions, pitch competitions, investor meet-ups, and world-class networking opportunities for crypto enthusiasts."
+  },
+  {
+    "name": "Futurist Conference 2022",
+    "startDate": "9 August 2022",
+    "endDate": "10 August 2022",
+    "city": "Toronto",
+    "country": "Canada",
+    "link": "https://www.futuristconference.com/",
+    "twitter": "https://twitter.com/untraceableinc",
+    "description": "Join hundreds of developers for a 3-day hackathon and workshop series to build the Web3 world. A completely free community event for all those who apply. Located in a mega indoor dome connected to the conference is a perfect hub for developers to hack all night long."
+  },
+  {
+    "name": "DeFiCon",
+    "startDate": "11 August 2022",
+    "endDate": "12 August 2022",
+    "city": "New York",
+    "country": "United States",
+    "link": "https://deficon.nyc/",
+    "twitter": "https://twitter.com/defi_conference",
+    "description": "DeFiCon is a nonprofit conference with a mission to elevate the ethos of peer-to-peer crypto.\n\nDeFi, crypto, and NFT communities consist of more than only profit maximalists, degens, gamblers, and ponzi apes – they are full of daring and creative innovators. Our ecosystem thrives on accessibility, participation, building, creativity, and even a little weirdness. Peer-to-peer crypto has and will become the evolution of human organization and the future of France, open to anyone and everyone who wants to contribute.\n\nAs a nonprofit conference, the focus shifts from maximizing profit to maximizing the experience for the attendees. We will donate all proceeds above the event’s cost to charity while unifying the crypto community under one house. The goal is to ensure the value is found at our event and to inspire both new participants and people already familiar with DeFi."
+  },
+  {
+    "name": "ETHLatam",
+    "startDate": "11 August 2022",
+    "endDate": "14 August 2022",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "link": "",
+    "twitter": "https://twitter.com/ethlatam",
+    "description": "A 3-day event focused on tech and community. Come and join the conferences & networking with one of the most vibrant ETH communities ✨"
+  },
+  {
+    "name": "WEB3CONF INDIA",
+    "startDate": "12 August 2022",
+    "endDate": "14 August 2022",
+    "city": "GOA",
+    "country": "India",
+    "link": "https://web3confindia.xyz/#home",
+    "twitter": "https://twitter.com/web3conf_india",
+    "description": "India's first chain-agnostic web3 conference."
+  },
+  {
+    "name": "ETHMexicoCity",
+    "startDate": "19 August 2022",
+    "endDate": "21 August 2022",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "link": "https://ethglobal.medium.com/announcing-the-ethglobal-2022-season-51a7906bb3a4",
+    "twitter": "https://twitter.com/ethglobal",
+    "description": "ETHMexicoCity is one you won’t want to miss. Located in the heart of the nation’s crypto scene, come prepared for a strong showing from the Mexican crypto diaspora—and a good time."
+  },
+  {
+    "name": "SUPERVERSE",
+    "startDate": "20 August 2022",
+    "endDate": "21 August 2022",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "link": "https://www.superverse.me/",
+    "twitter": "https://twitter.com/superverseme",
+    "description": "As our attention shifts towards the digital world, our digital lives become more worth to us. SUPERVERSE discusses transformational shifts shaping the way we: create, consume, monetize and identify ourselves."
+  },
+  {
+    "name": "Solana Hacker House | Stokholm",
+    "startDate": "24 August 2022",
+    "endDate": "29 August 2022",
+    "city": "Stokholm",
+    "country": "Sweden",
+    "link": "https://solana.com/events/stockholm-hacker-house",
+    "twitter": "https://twitter.com/hackerhouses",
+    "description": "The Solana Foundation x Jump Hacker Houses is a five-day offline event with in-person guidance from core Solana Labs engineers, as well as mentorship from other partners. "
+  },
+  {
+    "name": "Coinfest Asia",
+    "startDate": "25 August 2022",
+    "endDate": "26 August 2022",
+    "city": "Bali",
+    "country": "Indonesia",
+    "link": "https://coinfest.asia/",
+    "twitter": "https://twitter.com/coinfestasia",
+    "description": "Coinfest Asia is an insight & networking festival, sharing opportunities around web3, crypto, blockchain, NFT & Metaverse."
+  },
+  {
+    "name": "BitBlockBoom",
+    "startDate": "25 August 2022",
+    "endDate": "28 August 2022",
+    "city": "Austin",
+    "country": "United States",
+    "link": "https://bitblockboom.com",
+    "twitter": "https://twitter.com/bitblockboom",
+    "description": "The BitBlockBoom! is a Bitcoin Maximalist Conference. To put it in simple terms this conference is only for people who are interested in Bitcoin.\nAttendees range from people highly known and heavily involved in Bitcoin, to people who are just trying to learn what Bitcoin is all about.\n\nYou will not find anyone shilling ICO’s or Altcoins.\n\nThis is a True Bitcoin Conference.\n\nBitBlockBoom! is not a gigantic, or super conference. This creates a wonderful atmosphere to meet and discuss Bitcoin with the speakers and other Bitcoin Maximalists."
+  },
+  {
+    "name": "ETHWarsaw",
+    "startDate": "1 September 2022",
+    "endDate": "4 September 2022",
+    "city": "Warsaw",
+    "country": "Poland",
+    "link": "https://www.ethwarsaw.dev/",
+    "twitter": "https://twitter.com/ETHWarsaw",
+    "description": "Warsaw blockchain community has been very active on the global Web3 scene.\nWe’d like to welcome Web3 builders from all over the world to join us for a week of building, exchanging experiences & ideas here in Warsaw!"
+  },
+  {
+    "name": "ETHSantiago",
+    "startDate": "2 September 2022",
+    "endDate": "4 September 2022",
+    "city": "Santiago",
+    "country": "Chile",
+    "link": "",
+    "twitter": "https://twitter.com/EthereumStgo",
+    "description": ""
   }
 ]
