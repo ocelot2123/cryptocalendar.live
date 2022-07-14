@@ -8,6 +8,7 @@ import {
   Heading,
   Show,
   Text,
+  Link as ChakraLink,
 } from '@chakra-ui/react';
 import { FC } from 'react';
 import dayjs from 'dayjs';
@@ -78,7 +79,12 @@ export const Conference: FC<ConferenceProp> = ({ conferences }) => (
                   {conference.city + ', ' + conference.country}
                 </Text>
               </Show>
-              <Text whiteSpace="pre-line">{conference.description}</Text>
+              <Text whiteSpace="pre-line" marginBottom="25px">
+                {conference.description}
+              </Text>
+              <ChakraLink href={conference.link} target="_blank">
+                Website
+              </ChakraLink>
             </AccordionPanel>
           </AccordionItem>
         );
