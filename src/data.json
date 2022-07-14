@@ -168,5 +168,315 @@
     "link": "https://www.ethwarsaw.dev/",
     "twitter": "https://twitter.com/ETHWarsaw",
     "description": "Warsaw blockchain community has been very active on the global Web3 scene.\nWe’d like to welcome Web3 builders from all over the world to join us for a week of building, exchanging experiences & ideas here in Warsaw!"
+  },
+  {
+    "name": "Dappcon",
+    "startDate": "12 September 2022",
+    "endDate": "14 September 2022",
+    "city": "Berlin",
+    "country": "Germany",
+    "link": "https://www.dappcon.io/",
+    "twitter": "https://twitter.com/dappcon_berlin",
+    "description": "Dappcon provides the opportunity for co-creating the future of dapps while engaging the community in open critical discussions and experiential learning."
+  },
+  {
+    "name": "Die Bitcoin Konferenz",
+    "startDate": "15 September 2022",
+    "endDate": "17 September 2022",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "link": "https://bconf.de/",
+    "twitter": "https://twitter.com/thebconf/",
+    "description": "Die größte deutschsprachige Bitcoin Konferenz! September 15-17 2022, Innsbruck."
+  },
+  {
+    "name": "ETHBerlin",
+    "startDate": "16 September 2022",
+    "endDate": "18 September 2022",
+    "city": "Berlin",
+    "country": "Germany",
+    "link": "https://ethberlin.ooo/",
+    "twitter": "https://twitter.com/ETHBerlin",
+    "description": "ETHBerlin, to the power of 3."
+  },
+  {
+    "name": "Australian Crypto Convention",
+    "startDate": "17 September 2022",
+    "endDate": "18 September 2022",
+    "city": "Gold Coast",
+    "country": "Australia",
+    "link": "https://www.auscryptocon.com/",
+    "twitter": "https://twitter.com/AusCryptoCon",
+    "description": "Join 5,000+ attendees at Australia’s largest gathering of crypto & blockchain enthusiasts, innovators, technologists, business leaders, influencers, & global leaders."
+  },
+  {
+    "name": "Cryptoberfest",
+    "startDate": "20 September 2022",
+    "endDate": "22 September 2022",
+    "city": "Munich",
+    "country": "Germany",
+    "link": "https://www.cryptoberfest.de/",
+    "twitter": "https://twitter.com/Crypt0berfest",
+    "description": "Joins us in our journey deep down into the rabbit whole. A pathway over 3 days that inspires your heart, brain and liver in forms never seen before."
+  },
+  {
+    "name": "Mainnet by Messari",
+    "startDate": "21 September 2022",
+    "endDate": "23 September 2022",
+    "city": "New York",
+    "country": "United States",
+    "link": "https://mainnet.events/",
+    "twitter": "https://twitter.com/messaricrypto",
+    "description": "As the crypto industry continues to grow and disrupt adjacent industries, Messari strives to offer investors, developers, entrepreneurs, and newcomers alike with reliable information and data tools that help them participate intelligently in the crypto economy. Building off this ethos, we will continue to experiment with industry partners to ensure the Mainnet experience offers experiential learning, promotes collaboration & networking, and remains anchored with independent content.\n\nRelocating to Pier 36 on the East Side of Manhattan, we are eager to design a unique experience for all attendees and build activations that align with our sponsors objectives. Budgets and target audiences may vary but we're keen on customizing each sponsor's package to best meet their needs and promote optimal engagement with all stakeholders."
+  },
+  {
+    "name": "Solana Hacker House | Singapore",
+    "startDate": "21 September 2022",
+    "endDate": "25 September",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "https://solana.com/events/singapore-hh",
+    "twitter": "https://twitter.com/hackerhouses",
+    "description": "The Solana Foundation x Jump Hacker Houses is a five-day offline event with in-person guidance from core Solana Labs engineers, as well as mentorship from other partners. "
+  },
+  {
+    "name": "Zebu Live",
+    "startDate": "22 September 2022",
+    "endDate": "23 September 2022",
+    "city": "London",
+    "country": "United Kingdom",
+    "link": "https://www.zebulive.xyz/",
+    "twitter": "https://twitter.com/Zebu_live",
+    "description": "We’re gathering to celebrate the progress the Crypto, Web3, and Blockchain industry has made over the years and dive deep into how to gain mainstream adoption.\n\nOur goal is to bring all the biggest communities together to work together towards the goal of mainstream adoption."
+  },
+  {
+    "name": "ASIA CRYPTO WEEK",
+    "startDate": "26 September 2022",
+    "endDate": "2 October 2022",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "https://www.asiacryptoweek.com/",
+    "twitter": "https://twitter.com/token2049",
+    "description": "Asia Crypto Week is a week of various independently organised side events around TOKEN2049 Singapore, running from 26 September – 2 October 2022. The week concludes with an exceptional closing party at CE LA VIE and the F1 Singapore Grand Prix.\n\nExpect a wide range of meetups, workshops, networking drinks and parties - creating unparalleled networking opportunities. "
+  },
+  {
+    "name": "Cosmoverse",
+    "startDate": "27 September 2022",
+    "endDate": "28 September 2022",
+    "city": "Medellín",
+    "country": "Colombia",
+    "link": "https://cosmoverse.org/",
+    "twitter": "https://twitter.com/CosmoverseHQ",
+    "description": ""
+  },
+  {
+    "name": "Ethereum SP",
+    "startDate": "27 September 2022",
+    "endDate": "29 September 2022",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "link": "https://www.ethereumbrasil.com/",
+    "twitter": "https://twitter.com/Ethereum_Brasil",
+    "description": "Ethereum Brasil is a gateway for international blockchain/Web3 projects to the Latin American region - the starting point for global projects to understand the unique landscape; to meet their communities; and, to grow their user-base."
+  },
+  {
+    "name": "TOKEN 2049",
+    "startDate": "28 September 2022",
+    "endDate": "29 September 2022",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "https://www.asia.token2049.com/",
+    "twitter": "https://twitter.com/token2049",
+    "description": "TOKEN2049 is the premier crypto event, organised annually in Singapore and London, where founders and executives of the leading Web3 companies share their view on the market. We shine a light on the global developments, while taking a unique and widening perspective on the ecosystem and its vast opportunities.\n\n​TOKEN2049 brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media - and creates unparalleled networking opportunities.\n\nThis is the community that will define what’s next in the space."
+  },
+  {
+    "name": "DevCon",
+    "startDate": "11 October 2022",
+    "endDate": "14 October 2022",
+    "city": "Bogota",
+    "country": "Colombia",
+    "link": "https://devcon.org/en/#road-to-devcon",
+    "twitter": "",
+    "description": "Devcon is an intensive introduction for new Ethereum explorers, a global family reunion for those already a part of our ecosystem, and a source of energy and creativity for all.\n\nWe host Devcon to educate and empower the community to build and use decentralized systems. It is a conference for builders of all kinds.\n\nOur goal is to push the boundaries of possibility in our mission to bring decentralized protocols, tools, and culture to the world. Programming covers content ranging from the deeply technical to the profoundly human."
+  },
+  {
+    "name": "LA Blockchain Summit",
+    "startDate": "12 October 2022",
+    "endDate": "13 October 2022",
+    "city": "Los Angeles",
+    "country": "United States",
+    "link": "https://lablockchainsummit.com/",
+    "twitter": "https://twitter.com/lablockchainsmt",
+    "description": "LA Blockchain Summit is the marquee conference & expo focused on blockchain investing, building, and mainstream adoption in North America. An exclusive, curated, high-impact, informative, and thought-provoking event presented by some of the world’s foremost innovators, change-makers, and prominent leaders in the web3 ecosystem.\n\nProduced by blockchain venture studio & fund Draper Goren Holm, a partnership between Tim Draper, Alon Goren, and Josef Holm, LA Blockchain Summit is North America's preeminent web3 conference that cannot be missed. Presented over three full days, featuring insightful fireside chats with the most accomplished, powerful, and astounding list of thought leaders, builders, active investors, funds, and family offices."
+  },
+  {
+    "name": "TABConf",
+    "startDate": "14 October 2022",
+    "endDate": "15 October 2022",
+    "city": "Atlanta",
+    "country": "United States",
+    "link": "https://2022.tabconf.com/",
+    "twitter": "https://twitter.com/tabconf",
+    "description": "TABConf is The Atlanta Bitcoin Conference — an event for building communities, providing education, and supporting developers. This is a conference where no one can \"buy\" a talk. We like to think of this as the most inclusive, organic, grassroots event possible for Bitcoin."
+  },
+  {
+    "name": "The MarTech Summit",
+    "startDate": "19 October 2022",
+    "endDate": "20 October 2022",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "link": "https://themartechsummit.com/bangkok",
+    "twitter": "https://twitter.com/Martech_Summit",
+    "description": "Thailand is one of the largest economies in Southeast Asia and the capital, Bangkok, is full of opportunities and developments. In the agenda we will discuss the status and development of marketing technology used by different companies, both local and global with a strong Thai base. This variety of perspectives in globalisation and localisation tactics will give a comprehensive view of the trends and strategies in place. In addition, the summit is guaranteed to be attended by 85% of senior leadership positions, ensuring you will learn and network with CMOs, Heads, Directors and more."
+  },
+  {
+    "name": "ETHLisbon",
+    "startDate": "28 October 2022",
+    "endDate": "30 October 2022",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "link": "https://www.ethlisbon.org/",
+    "twitter": "https://twitter.com/ETHLisbon",
+    "description": "Bringing #buidl energy to Europe's crypto capital since '21"
+  },
+  {
+    "name": "Web Summit 2022",
+    "startDate": "1 November 2022",
+    "endDate": "4 November 2022",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "link": "https://websummit.com/",
+    "twitter": "https://twitter.com/websummit",
+    "description": "We’re a company from Dublin, Ireland, that holds events across the world: Web Summit in Lisbon, Web Summit Rio in Rio de Janeiro, Collision in Toronto, and RISE in Hong Kong.\n\nPolitico has said we run “the world’s premier tech conference”, the Atlantic that Web Summit is “where the future goes to be born”, and the New York Times that we assemble “a grand conclave of the tech industry’s high priests.”\n\nAt a time of great uncertainty for many industries and, indeed, the world itself, we gather the founders and CEOs of technology companies, fast-growing startups, policymakers, and heads of state to ask a simple question: Where to next?"
+  },
+  {
+    "name": "ETHSanFrancisco",
+    "startDate": "3 November 2022",
+    "endDate": "5 November 2022",
+    "city": "San Francisco",
+    "country": "United States",
+    "link": "https://nftevening.com/event/eth-san-francisco-2022-san-francisco/",
+    "twitter": "https://twitter.com/ethglobal",
+    "description": "ETH San Francisco is the world’s largest hackathon. It is an opportunity to work alongside the developers, industry experts, advisers, and companies who are making the infrastructure and applications that will power the new decentralized web."
+  },
+  {
+    "name": "Solana Breakpoint",
+    "startDate": "4 November 2022",
+    "endDate": "7 November 2022",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "link": "https://solana.com/breakpoint",
+    "twitter": "https://twitter.com/SolanaConf",
+    "description": "The Solana ecosystem gathered in Lisbon in 2021 for the first-ever, real-life, worldwide celebration: Breakpoint. It was where the builders, enthusiasts, and dreamers making the future came to work, learn, and play.\n\nAnd now, a year of explosive ecosystem growth later, Breakpoint is back with more venues, more events, and more Solana."
+  },
+  {
+    "name": "Blockchain Revolution Global",
+    "startDate": "8 November 2022",
+    "endDate": "9 November 2022",
+    "city": "Toronto",
+    "country": "Canada",
+    "link": "https://blockchainrevolutionglobal.com/",
+    "twitter": "https://twitter.com/rev_global",
+    "description": "After the success of the inaugural Blockchain Revolution Global (BRG) in 2019, the second edition in 2020 brought over 1,500 executives together from the world’s leading enterprises alongside foremost leaders, thinkers, and practitioners in blockchain.\n\nCo-hosted by the Blockchain Research Institute, a global independent blockchain think-tank, and MCI Group, the world’s largest engagement agency, W3B will educate, inspire, and prepare leaders to be part of the revolutionary transformation that blockchain technology is bringing to business, government, and society.\n\nJoin us at the next Web3 Blockchain World (#W3B2022) in November 2022, the first truly worldwide enterprise leadership community for blockchain, bringing together leading thinkers, builders, and pioneers to accelerate the blockchain revolution."
+  },
+  {
+    "name": "Latin American Bitcoin & Blockchain Conference",
+    "startDate": "11 November 2022",
+    "endDate": "13 November 2022",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "link": "https://twitter.com/labitconf",
+    "twitter": "https://twitter.com/labitconf",
+    "description": "Since 2013 Latin American Bitcoin & Blockchain Conference. Un proyecto de Fundación Bitcoin Iberoamérica. "
+  },
+  {
+    "name": "Ghana Crypto & DeFi Summit 2022",
+    "startDate": "12 November 2022",
+    "endDate": "12 November 2022",
+    "city": "Accra",
+    "country": "Ghana",
+    "link": "https://afrideficon.live/",
+    "twitter": "https://twitter.com/defiafrica",
+    "description": "Ghana Crypto & DeFi Summit 2022, the first Ethereum Community-led summit of its kind, is brought to you by the well-established local blockchain community, DEFI AFRICA.\n\nThe agenda for this 2-day event will feature keynotes, panels, and discussions on the most exciting topics and developments from the world of blockchain, Web3, cryptocurrencies, Decentralized Finance (DeFi), and NFTs.\n\nWe are bringing local and international industry experts, builders, investors, businesses, startups, and students together under one roof to facilitate an eventful and exciting day filled with networking and educational opportunities."
+  },
+  {
+    "name": "Web3Dubai",
+    "startDate": "17 November 2022",
+    "endDate": "18 November 2022",
+    "city": "Dubai",
+    "country": "UAE",
+    "link": "https://www.web3dubai.org/",
+    "twitter": "https://twitter.com/Web3Dubai",
+    "description": "The Web3Dubai Conference will feature the latest innovations in Web3 technology and modular blockchains with a focus on builder and creator tools, techniques and APIs that help you scale your project and go from 0 to 1. Whether you're a financier building a new DeFi protocol, an artist crafting a generative art NFT collection or a regen building for public goods, we've got you covered with both great workshops to upgrade your skills or get you started and talks to inspire and discover. If you're a VC, we will have a speed dating scene so you can invest in all the amazing people at the conference looking for a little help!"
+  },
+  {
+    "name": "Istanbul Blockchain Week",
+    "startDate": "21 November 2022",
+    "endDate": "25 November 2022",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "link": "https://istanbulblockchainweek.com/",
+    "twitter": "https://twitter.com/IstanbulBlockWk",
+    "description": "The inaugural iteration of Istanbul Blockchain Week promises to be the most anticipated blockchain event of 2022 and takes place in one of Turkey’s most vibrant cities with the showcase event of the week IstanBlock 2022"
+  },
+  {
+    "name": "Next Block Expo",
+    "startDate": "23 November 2022",
+    "endDate": "24 November 2022",
+    "city": "Berlin",
+    "country": "Germany",
+    "link": "https://nextblockexpo.com/",
+    "twitter": "https://twitter.com/nextblockexpo",
+    "description": "Next Block Expo - one of the biggest industry events in Europe - brings founders, investors and blockchain experts together to redefine & discover the future of web3."
+  },
+  {
+    "name": "FinTech Connect 2022",
+    "startDate": "30 November 2022",
+    "endDate": "1 December 2022",
+    "city": "London",
+    "country": "United Kingdom",
+    "link": "https://www.fintechconnect.com/events-london",
+    "twitter": "https://twitter.com/fintech_connect",
+    "description": "Now in its 9th year, Fintech Connect returns physically in November 2022. Join us and FinTech leaders from the FinTech ecosystem for two content packed days where you can hear from and meet global leaders in digital transformation, payments, blockchain and regtech who are driving the global financial technology industry forwards, all under one roof.\n\nWhether it be a challenger bank, innovative merchant, central bank, tier one financial institution or cutting-edge tech player, come and join them at FinTech Connect 2022."
+  },
+  {
+    "name": "Blockchain expo",
+    "startDate": "1 December 2022",
+    "endDate": "2 December 2022",
+    "city": "London",
+    "country": "United Kingdom",
+    "link": "https://blockchain-expo.com/global/",
+    "twitter": "https://twitter.com/Blockchain_Expo",
+    "description": "The world-leading Blockchain Expo series will arrive at the London Olympia on the 1-2 December 2022 to host its sixth annual Global event.\n\nIt will bring together key industries from across the globe for two days of top-level content and discussion across 6 co-located events with IoT (Co-Locating 5G), AI & Big Data, Cyber Security & Cloud, Edge Computing and Digital Transformation Week"
+  },
+  {
+    "name": "Art Basel Miami Beach",
+    "startDate": "1 December 2022",
+    "endDate": "3 December 2022",
+    "city": "Miami",
+    "country": "United States",
+    "link": "https://www.artbasel.com/miami-beach",
+    "twitter": "https://twitter.com/ArtBasel",
+    "description": "In our American show, leading galleries from five continents show significant works by masters of Modern and contemporary art, as well as the new generation of emerging stars. "
+  },
+  {
+    "name": "ETHDownUnder",
+    "startDate": "1 December 2022",
+    "endDate": "4 December 2022",
+    "city": "Sydney",
+    "country": "Australia",
+    "link": "https://ethdownunder.com/",
+    "twitter": "https://twitter.com/ETHDOWNUNDER",
+    "description": "the dopest web3 hackathon in the southern hempisher"
+  },
+  {
+    "name": "ETHTaipei",
+    "startDate": "2 December 2022",
+    "endDate": "4 December 2022",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "link": "https://www.meetup.com/Taipei-Ethereum-Meetup/",
+    "twitter": "https://twitter.com/eth_taipei",
+    "description": "Taipei Ethereum Meetup (TEM) is a group of Taiwan-based engineers, entrepreneurs, blockchain enthusiasts, researchers, students who are interested in learning more about Ethereum blockchain technology. Founded in April 2016, TEM community members have organized hundreds of meetups, workshops, conference events on a variety of topics. Some of the topics covered include smart contract programming, protocol designs, proof-of-stake, peer-to-peer networking, DeFi products, zero-knowledge proofs, and Ethereum governance."
   }
 ]
