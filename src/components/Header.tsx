@@ -10,7 +10,7 @@ export const Header = () => {
         href="https://docs.google.com/forms/d/e/1FAIpQLSeMQjsrAIpeuTC6jMWRAaQCh-6Y7zVya8UEBrbsu98ClQX8Jg/viewform"
       >
         <Button variant="ghost" width={'150px'} whiteSpace="normal">
-          List Your Conference
+          List Your Event
         </Button>
       </Link>
       <DarkModeSwitch />

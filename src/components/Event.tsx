@@ -13,7 +13,7 @@ import {
 import { FC } from 'react';
 import dayjs from 'dayjs';
 
-type Conference = {
+type Event = {
   name: string;
   startDate: string;
   endDate: string;
@@ -24,11 +24,11 @@ type Conference = {
   description: string;
 };
 
-type ConferenceProp = {
-  conferences: Conference[];
+type EventProp = {
+  events: Event[];
 };
 
-function conferenceSort(a, b) {
+function eventSort(a, b) {
   if (dayjs(a.startDate) < dayjs(b.startDate)) {
     return -1;
   }
@@ -38,7 +38,7 @@ function conferenceSort(a, b) {
   return 0;
 }
 
-export const Conference: FC<ConferenceProp> = ({ conferences }) => (
+export const Event: FC<EventProp> = ({ events }) => (
   <>
     <Heading
       as="h1"
@@ -46,7 +46,7 @@ export const Conference: FC<ConferenceProp> = ({ conferences }) => (
       marginBottom={'75px'}
       textAlign={'center'}
     >
-      Upcoming Conferences
+      Upcoming Events
     </Heading>
     <Accordion
       allowToggle
@@ -54,35 +54,31 @@ export const Conference: FC<ConferenceProp> = ({ conferences }) => (
       width={{ base: '90%', md: '80%', xl: '70%' }}
       marginBottom="75px"
     >
-      {conferences.sort(conferenceSort).map(conference => {
+      {events.sort(eventSort).map(function (event, i) {
         return (
-          <AccordionItem>
+          <AccordionItem key={i}>
             <h2>
               <AccordionButton display="flex" alignItems={'center'}>
                 <Box display="flex" textAlign="left" gap={3}>
                   <Box minWidth={'75px'}>
-                    {dayjs(conference.startDate).format('DD MMM')}
+                    {dayjs(event.startDate).format('DD MMM')}
                   </Box>
-                  <Box>{conference.name}</Box>
+                  <Box>{event.name}</Box>
                 </Box>
                 <Box marginLeft={'auto'} display="flex" alignItems={'center'}>
-                  <Show above="md">
-                    {conference.city + ', ' + conference.country}
-                  </Show>
+                  <Show above="md">{event.city + ', ' + event.country}</Show>
                   <AccordionIcon marginLeft={'25px'} />
                 </Box>
               </AccordionButton>
             </h2>
             <AccordionPanel pb={4}>
               <Show below="md">
-                <Text fontSize="xs">
-                  {conference.city + ', ' + conference.country}
-                </Text>
+                <Text fontSize="xs">{event.city + ', ' + event.country}</Text>
               </Show>
               <Text whiteSpace="pre-line" marginBottom="25px">
-                {conference.description}
+                {event.description}
               </Text>
-              <ChakraLink href={conference.link} target="_blank">
+              <ChakraLink href={event.link} target="_blank">
                 Website
               </ChakraLink>
             </AccordionPanel>
