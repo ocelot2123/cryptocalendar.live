@@ -10,7 +10,14 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>Crypto Calendar</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content={'Crypto Calendar'} />
+        <meta
+          name="description"
+          content="CryptoCalendar is a events and conferences aggregator for all things crypto, blockchain, and web3 related."
+        />
+        <meta
+          name="robots"
+          content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        />
       </Head>
       <ChakraProvider theme={theme}>
         <Component {...pageProps} />
