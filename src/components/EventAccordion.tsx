@@ -58,7 +58,12 @@ export const EventAccordion: FC<EventAccordionProp> = ({
                   <Box>{event.name}</Box>
                 </Box>
                 <Box marginLeft={'auto'} display="flex" alignItems={'center'}>
-                  <Show above="md">{event.city + ', ' + event.country}</Show>
+                  {event.city ? (
+                    <Show above="md">{event.city + ', ' + event.country}</Show>
+                  ) : (
+                    <Show above="md">{event.country}</Show>
+                  )}
+
                   <AccordionIcon marginLeft={'25px'} />
                 </Box>
               </AccordionButton>
