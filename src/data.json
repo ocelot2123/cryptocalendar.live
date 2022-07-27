@@ -232,8 +232,8 @@
   {
     "name": "Solana Hacker House | Singapore",
     "startDate": "21 September 2022",
-    "endDate": "25 September",
-    "city": "Singapore",
+    "endDate": "25 September 2022",
+    "city": "",
     "country": "Singapore",
     "link": "https://solana.com/events/singapore-hh",
     "twitter": "https://twitter.com/hackerhouses",
@@ -478,5 +478,45 @@
     "link": "https://www.meetup.com/Taipei-Ethereum-Meetup/",
     "twitter": "https://twitter.com/eth_taipei",
     "description": "Taipei Ethereum Meetup (TEM) is a group of Taiwan-based engineers, entrepreneurs, blockchain enthusiasts, researchers, students who are interested in learning more about Ethereum blockchain technology. Founded in April 2016, TEM community members have organized hundreds of meetups, workshops, conference events on a variety of topics. Some of the topics covered include smart contract programming, protocol designs, proof-of-stake, peer-to-peer networking, DeFi products, zero-knowledge proofs, and Ethereum governance."
+  },
+  {
+    "name": "hack.summit",
+    "startDate": "26 August 2022",
+    "endDate": "27 August 2022",
+    "city": "San Francisco",
+    "country": "United States",
+    "link": "https://sf.hacksummit.org/",
+    "twitter": "",
+    "description": "A 2-Day Blockchain Summit For Developers."
+  },
+  {
+    "name": "Æternity Universe Two",
+    "startDate": "15 September 2022",
+    "endDate": "16 September 2022",
+    "city": "Burgscheidungen",
+    "country": "Germany",
+    "link": "https://aeternityuniverse.com/",
+    "twitter": "https://twitter.com/aeternity",
+    "description": "Be a part of the æternity blockchain history!\n\nEngage in vibrant discussions and valuable knowledge transfers with amazing speakers, take part in developer workshops, and experience it all in a space where the past and future collide..."
+  },
+  {
+    "name": "ETHSafari",
+    "startDate": "18 September 2022",
+    "endDate": "24 September 2022",
+    "city": "",
+    "country": "Kenya",
+    "link": "https://ethsafari.xyz/",
+    "twitter": "https://twitter.com/EthSafari",
+    "description": "Safari wapi? Journey where?\n\nWelcome to the latest greatest ETH event happening in Africa!"
+  },
+  {
+    "name": "Converge22",
+    "startDate": "27 September 2022",
+    "endDate": "30 September 2022",
+    "city": "San Francisco",
+    "country": "United States",
+    "link": "https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary",
+    "twitter": "https://twitter.com/circlepay",
+    "description": "Converge22 is a gathering for change makers, looking to build what’s next in Web3. From crypto-natives to the crypto-curious, from traditional finance to DeFi, from regulators and policy makers to non-profits, Converge22 is an unprecedented opportunity to dive deep, collaborate and establish a shared vision of the crypto economy."
   }
 ]
