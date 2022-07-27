@@ -63,7 +63,6 @@ export const EventAccordion: FC<EventAccordionProp> = ({
                   ) : (
                     <Show above="md">{event.country}</Show>
                   )}
-
                   <AccordionIcon marginLeft={'25px'} />
                 </Box>
               </AccordionButton>
@@ -75,7 +74,13 @@ export const EventAccordion: FC<EventAccordionProp> = ({
               <Text whiteSpace="pre-line" marginBottom="25px">
                 {event.description}
               </Text>
-              <ChakraLink href={event.link} target="_blank">
+              <ChakraLink
+                href={event.link}
+                color="#0085ab"
+                _hover={{ color: '#009ac7' }}
+                textDecoration="underline"
+                target="_blank"
+              >
                 Website
               </ChakraLink>
             </AccordionPanel>
