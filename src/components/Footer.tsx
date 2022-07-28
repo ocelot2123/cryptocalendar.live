@@ -1,4 +1,4 @@
-import { Link as ChakraLink, Flex, Text } from '@chakra-ui/react';
+import { Flex, Text } from '@chakra-ui/react';
 import { BlueLink } from './BlueLink';
 
 export const Footer = () => (
