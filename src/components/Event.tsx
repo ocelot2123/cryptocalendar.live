@@ -60,7 +60,14 @@ export const Event: FC<EventProp> = ({ events }) => {
       >
         <Box marginBottom={'20px'} marginLeft={{ base: '0', md: 'auto' }}>
           <EventFilters
-            cities={[...new Set(events.map(o => o.city).sort(stringSort))]}
+            cities={[
+              ...new Set(
+                events
+                  .map(o => o.city)
+                  .filter(o => o)
+                  .sort(stringSort),
+              ),
+            ]}
             cityFilter={cityFilter}
             setCityFilter={setCityFilter}
             countries={[
