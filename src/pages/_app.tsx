@@ -15,6 +15,10 @@ function MyApp({ Component, pageProps }: AppProps) {
           content="Crypto Calendar Live is an events and conferences aggregator for all things crypto, blockchain, and web3 related."
         />
         <meta name="robots" content="index, follow, noodp, noydir" />
+        <meta
+          name="keywords"
+          content="crypto,web3,blockchain,events,conferences,crypto calendar"
+        />
       </Head>
       <ChakraProvider theme={theme}>
         <Component {...pageProps} />
