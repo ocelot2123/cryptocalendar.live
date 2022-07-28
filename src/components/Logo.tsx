@@ -11,6 +11,7 @@ export const Logo = () => {
         priority={true}
         height="75px"
         width="200px"
+        alt="Logo Light"
       />
     );
   } else {
@@ -20,6 +21,7 @@ export const Logo = () => {
         priority={true}
         height="75px"
         width="200px"
+        alt="Logo Dark"
       />
     );
   }
