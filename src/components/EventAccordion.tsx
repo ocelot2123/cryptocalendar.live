@@ -12,6 +12,7 @@ import {
   Link as ChakraLink,
 } from '@chakra-ui/react';
 import dayjs from 'dayjs';
+import { BlueLink } from './BlueLink';
 
 type EventAccordionProp = {
   events: EventType[];
@@ -74,15 +75,7 @@ export const EventAccordion: FC<EventAccordionProp> = ({
               <Text whiteSpace="pre-line" marginBottom="25px">
                 {event.description}
               </Text>
-              <ChakraLink
-                href={event.link}
-                color="#0085ab"
-                _hover={{ color: '#009ac7' }}
-                textDecoration="underline"
-                target="_blank"
-              >
-                Website
-              </ChakraLink>
+              <BlueLink link={event.link} text={'Website'} />
             </AccordionPanel>
           </AccordionItem>
         );
