@@ -6,12 +6,13 @@ export const Footer = () => (
     direction="column"
     alignItems="center"
     justifyContent="flex-start"
+    textAlign="center"
     position="fixed"
     bottom={0}
     width="100%"
     bg={'#34464f'}
   >
-    <Text color="white">
+    <Text color="white" width="80%">
       {"If you like what we're doing, feel free to drop us a "}
       <BlueLink
         link={

@@ -10,6 +10,7 @@ import {
   Show,
   Text,
   Link as ChakraLink,
+  Flex,
 } from '@chakra-ui/react';
 import dayjs from 'dayjs';
 import { BlueLink } from './BlueLink';
@@ -75,7 +76,10 @@ export const EventAccordion: FC<EventAccordionProp> = ({
               <Text whiteSpace="pre-line" marginBottom="25px">
                 {event.description}
               </Text>
-              <BlueLink link={event.link} text={'Website'} />
+              <Flex gap="10px">
+                <BlueLink link={event.link} text={'Website'} />
+                <BlueLink link={event.twitter} text={'Twitter'} />
+              </Flex>
             </AccordionPanel>
           </AccordionItem>
         );
