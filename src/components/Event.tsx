@@ -48,7 +48,7 @@ export const Event: FC<EventProp> = ({ events }) => {
     <>
       <Heading
         as="h1"
-        marginTop={'100px'}
+        marginTop={'50px'}
         marginBottom={'30px'}
         textAlign={'center'}
       >
