@@ -9,15 +9,12 @@ export const Header = () => {
       justifyContent={'center'}
       templateColumns={{ base: '1fr 1fr', sm: '1fr auto 1fr' }}
       marginTop="15px"
+      alignItems={'center'}
     >
       <GridItem colStart={{ base: 1, md: 2 }}>
         <Logo />
       </GridItem>
-      <GridItem
-        marginLeft={'auto'}
-        marginTop="12px"
-        colStart={{ base: 2, sm: 3 }}
-      >
+      <GridItem marginLeft={'auto'} colStart={{ base: 2, sm: 3 }}>
         <Link
           _hover={undefined}
           target="_blank"
