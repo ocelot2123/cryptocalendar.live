@@ -71,7 +71,11 @@ export const EventAccordion: FC<EventAccordionProp> = ({
             </h2>
             <AccordionPanel pb={4}>
               <Show below="md">
-                <Text fontSize="xs">{event.city + ', ' + event.country}</Text>
+                {event.city ? (
+                  <Text fontSize="xs">{event.city + ', ' + event.country}</Text>
+                ) : (
+                  <Text fontSize="xs">{event.country}</Text>
+                )}
               </Show>
               <Text whiteSpace="pre-line" marginBottom="25px">
                 {event.description}
