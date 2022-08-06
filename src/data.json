@@ -280,7 +280,7 @@
     "description": "Ethereum Brasil is a gateway for international blockchain/Web3 projects to the Latin American region - the starting point for global projects to understand the unique landscape; to meet their communities; and, to grow their user-base."
   },
   {
-    "name": "TOKEN 2049",
+    "name": "TOKEN2049 Singapore",
     "startDate": "28 September 2022",
     "endDate": "29 September 2022",
     "city": "",
@@ -296,7 +296,7 @@
     "city": "Bogota",
     "country": "Colombia",
     "link": "https://devcon.org/en/#road-to-devcon",
-    "twitter": "",
+    "twitter": "https://twitter.com/efdevcon",
     "description": "Devcon is an intensive introduction for new Ethereum explorers, a global family reunion for those already a part of our ecosystem, and a source of energy and creativity for all.\n\nWe host Devcon to educate and empower the community to build and use decentralized systems. It is a conference for builders of all kinds.\n\nOur goal is to push the boundaries of possibility in our mission to bring decentralized protocols, tools, and culture to the world. Programming covers content ranging from the deeply technical to the profoundly human."
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "name": "TABConf",
-    "startDate": "14 October 2022",
+    "startDate": "12 October 2022",
     "endDate": "15 October 2022",
     "city": "Atlanta",
     "country": "United States",
@@ -518,5 +518,145 @@
     "link": "https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary",
     "twitter": "https://twitter.com/circlepay",
     "description": "Converge22 is a gathering for change makers, looking to build what’s next in Web3. From crypto-natives to the crypto-curious, from traditional finance to DeFi, from regulators and policy makers to non-profits, Converge22 is an unprecedented opportunity to dive deep, collaborate and establish a shared vision of the crypto economy."
+  },
+  {
+    "name": "Crypto 2022 (Association for Cryptologic Research)",
+    "startDate": "13 August 2022",
+    "endDate": "18 August 2022",
+    "city": "Santa Barbara",
+    "country": "United States",
+    "link": "https://crypto.iacr.org/2022/",
+    "twitter": "",
+    "description": "Crypto 2022 is a hybrid conference and will take place in Santa Barbara, USA on August 13-18 2022. Crypto 2022 is organized by the International Association for Cryptologic Research (IACR)."
+  },
+  {
+    "name": "DeFi Security Summit",
+    "startDate": "27 August 2022",
+    "endDate": "28 August 2022",
+    "city": "Stanford",
+    "country": "United States",
+    "link": "https://defisecuritysummit.org/",
+    "twitter": "https://twitter.com/summit_defi",
+    "description": "DeFi is an emerging suite of applications for decentralized asset management over blockchain technology. DeFi is becoming a major economic vehicle in modern society. The Ethereum blockchain alone already manages more than 235 billion USD worth of assets. One of the basic principles behind DeFis is that the code is law and computer programs called smart contracts that run on the blockchain dictate the conditions and the effects for asset transactions. This groundbreaking idea has many desirable benefits that originate from trust-minimizing and immutable aspects of decentralized public blockchains. However, vulnerabilities in smart contracts and in their applications may be exploited to steal or deny access to assets managed by them. Mitigation and prevention of such damages are challenging and require new software development and security design methodologies. Hundreds of millions in USD value have already been lost due to vulnerabilities in smart contracts. Therefore, smart contract security is a significant concern for DeFi applications."
+  },
+  {
+    "name": "The Science of Blockchain Conference 2022",
+    "startDate": "29 August 2022",
+    "endDate": "31 August 2022",
+    "city": "Stanford",
+    "country": "United States",
+    "link": "https://cbr.stanford.edu/sbc22/",
+    "twitter": "",
+    "description": "The conference focuses on technical innovations in the blockchain ecosystem, and brings together researchers and practioners working in the space. We are interested in the application of cryptography, decentralized protocols, formal methods, and empirical analysis, to improving the security and scalability of blockchain deployments. We aim to foster collaboration among practitioners and researchers working on blockchain protocol development, cryptography, distributed systems, secure computing, crypto-economics, and economic risk analysis."
+  },
+  {
+    "name": "MCON 2",
+    "startDate": "6 September 2022",
+    "endDate": "9 September 2022",
+    "city": "Denver",
+    "country": "United States",
+    "link": "https://www.mcon.fun/",
+    "twitter": "",
+    "description": "Bringing together a limited number of attendees, MCON gives you an experience of valuable conversations, learnings and experimental growth all about DAOs."
+  },
+  {
+    "name": "NEARCON 2022",
+    "startDate": "11 September 2022",
+    "endDate": "14 September 2022",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "link": "https://nearcon.org/",
+    "twitter": "",
+    "description": "Building on the success of last year, NEAR’s flagship event is back. And this year it’s set to be bigger and better than ever.\n\nJoin 2000+ delegates as we explore the limitless possibilities of building a better world with NEAR.\nGet up to speed on the NEAR ecosystem and the latest Web3 developments and technologies.\nGet inspired with talks from renowned authors, economists, A-list artists, and politicians.\nGet together and network with builders, collaborators, and makers across a variety of industries.\n\nThen get ready to groove the night away with our resident DJ. And if you’re a hacker accepted for the hackathon, you’ll get a free conference pass. Let’s build beyond the hype at NEARCON."
+  },
+  {
+    "name": "CV Summit 2022",
+    "startDate": "14 September 2022",
+    "endDate": "15 September 2022",
+    "city": "Zug",
+    "country": "Switzerland",
+    "link": "https://www.blockchainsummit.ch/",
+    "twitter": "https://twitter.com/CV_Labs",
+    "description": "CV Summit is back and better than ever! Join us for two days full of insightful panels, keynotes, networking, and more. CV Summit 2022 will bring together decentralized thinkers, investors, corporations, startup founders, high-profile individuals, and more."
+  },
+  {
+    "name": "Blockchain Land Nuevo León",
+    "startDate": "5 October 2022",
+    "endDate": "7 October 2022",
+    "city": "Nuevo León",
+    "country": "Mexico",
+    "link": "https://blockchain-land.io/en/home/",
+    "twitter": "https://twitter.com/talentrepublic_",
+    "description": "Blockchain Land, Nuevo León, is the meeting place for the Blockchain ecosystem, industries, university students and the general public to interact and work together.\n\nThis hybrid event (digital and face-to-face) is the gateway for anyone who wants to discover the world of the block."
+  },
+  {
+    "name": "ETHBogota",
+    "startDate": "7 October 2022",
+    "endDate": "9 October 2022",
+    "city": "Bogota",
+    "country": "Colombia",
+    "link": "https://ethbogota.com/",
+    "twitter": "",
+    "description": ""
+  },
+  {
+    "name": "Solana Hacker House | Lisbon",
+    "startDate": "1 November 2022",
+    "endDate": "3 November 2022",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "link": "https://solana.com/events/lisbon-hacker-house/",
+    "twitter": "https://twitter.com/hackerhouses",
+    "description": "The Solana Foundation x Jump Hacker Houses is a three-day offline event with in-person guidance from core Solana Labs engineers, as well as mentorship from other partners."
+  },
+  {
+    "name": "LAYER1CON",
+    "startDate": "27 October 2022",
+    "endDate": "29 October 2022",
+    "city": "Tampa",
+    "country": "United States",
+    "link": "https://www.layer1con.com/",
+    "twitter": "https://twitter.com/Layer1Con",
+    "description": "Layer1Con the Biggest research tech innovation medicine blockchain conference in North America. Building the Future of STEM one block at a time"
+  },
+  {
+    "name": "TOKEN2049 London",
+    "startDate": "9 November 2022",
+    "endDate": "10 November 2022",
+    "city": "London",
+    "country": "United Kingdom",
+    "link": "https://www.europe.token2049.com/",
+    "twitter": "",
+    "description": "TOKEN2049 is the premier crypto event, organised annually in Singapore and London, where founders and executives of the leading Web3 companies share their view on the market. We shine a light on the global developments, while taking a unique and widening perspective on the ecosystem and its vast opportunities.\n\n​TOKEN2049 brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media - and creates unparalleled networking opportunities.\n\nThis is the community that will define what’s next in the space."
+  },
+  {
+    "name": "AIBC Europe",
+    "startDate": "14 November 2022",
+    "endDate": "18 November 2022",
+    "city": "",
+    "country": "Malta",
+    "link": "https://aibc.world/europe/",
+    "twitter": "https://twitter.com/aibcsummit",
+    "description": "With a rich past and an eye towards a bright future, Europe as a whole has taken several measures towards becoming technologically competitive.\n\nBeing both the forefront of research and development as well as the home of the SiGMA Group, the European continent benefits from both a forward-thinking culture as well as drive for a tech-friendly future.\n\nWith Malta being amongst the first states to regulate cryptocurrencies and DLT, the island has always strived to be amongst the first to innovate when it comes to emerging technology.\n\nWith the new regulations being premiered first and foremost at AIBC Europe, Malta aims to be a pillar in the technological development of the region by uniting tech-leaders, regulators, investors and entrepreneurs from across the world to discuss, share ideas, make partnerships and build the foundation for the industry of tomorrow.\n\nJoin our delegates at MFCC – Malta Fairs & Conventions Centre for 3 days of panel discussions, keynote speeches, workshops and casual networking events that set the stage for the economy to come."
+  },
+  {
+    "name": "ETHVietnam",
+    "startDate": "25 November 2022",
+    "endDate": "27 November 2022",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "link": "https://www.eth-vietnam.com/",
+    "twitter": "",
+    "description": "ETHVietnam is the largest Web3 #BUIDLathon in Vietnam (aka hackathon) for Ethereum and other blockchain protocol enthusiasts, designers, and developers."
+  },
+  {
+    "name": "ETHVietnam",
+    "startDate": "25 November 2022",
+    "endDate": "27 November 2022",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "link": "https://www.eth-vietnam.com/",
+    "twitter": "",
+    "description": "ETHVietnam is the largest Web3 #BUIDLathon in Vietnam (aka hackathon) for Ethereum and other blockchain protocol enthusiasts, designers, and developers."
   }
 ]

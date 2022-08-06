@@ -81,8 +81,16 @@ export const EventAccordion: FC<EventAccordionProp> = ({
                 {event.description}
               </Text>
               <Flex gap="10px">
-                <BlueLink link={event.link} text={'Website'} />
-                <BlueLink link={event.twitter} text={'Twitter'} />
+                {event.link ? (
+                  <BlueLink link={event.link} text={'Website'} />
+                ) : (
+                  <></>
+                )}
+                {event.twitter ? (
+                  <BlueLink link={event.twitter} text={'Twitter'} />
+                ) : (
+                  <></>
+                )}
               </Flex>
             </AccordionPanel>
           </AccordionItem>
