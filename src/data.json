@@ -95,7 +95,7 @@
     "endDate": "14 August 2022",
     "city": "Buenos Aires",
     "country": "Argentina",
-    "link": "",
+    "link": "https://ethlatam.org/",
     "twitter": "https://twitter.com/ethlatam",
     "description": "A 3-day event focused on tech and community. Come and join the conferences & networking with one of the most vibrant ETH communities ✨"
   },
@@ -115,7 +115,7 @@
     "endDate": "21 August 2022",
     "city": "Mexico City",
     "country": "Mexico",
-    "link": "https://ethglobal.medium.com/announcing-the-ethglobal-2022-season-51a7906bb3a4",
+    "link": "https://mexico.ethglobal.com/",
     "twitter": "https://twitter.com/ethglobal",
     "description": "ETHMexicoCity is one you won’t want to miss. Located in the heart of the nation’s crypto scene, come prepared for a strong showing from the Mexican crypto diaspora—and a good time."
   },
@@ -208,16 +208,6 @@
     "link": "https://www.auscryptocon.com/",
     "twitter": "https://twitter.com/AusCryptoCon",
     "description": "Join 5,000+ attendees at Australia’s largest gathering of crypto & blockchain enthusiasts, innovators, technologists, business leaders, influencers, & global leaders."
-  },
-  {
-    "name": "Cryptoberfest",
-    "startDate": "20 September 2022",
-    "endDate": "22 September 2022",
-    "city": "Munich",
-    "country": "Germany",
-    "link": "https://www.cryptoberfest.de/",
-    "twitter": "https://twitter.com/Crypt0berfest",
-    "description": "Joins us in our journey deep down into the rabbit whole. A pathway over 3 days that inspires your heart, brain and liver in forms never seen before."
   },
   {
     "name": "Mainnet by Messari",
@@ -440,7 +430,7 @@
     "description": "Now in its 9th year, Fintech Connect returns physically in November 2022. Join us and FinTech leaders from the FinTech ecosystem for two content packed days where you can hear from and meet global leaders in digital transformation, payments, blockchain and regtech who are driving the global financial technology industry forwards, all under one roof.\n\nWhether it be a challenger bank, innovative merchant, central bank, tier one financial institution or cutting-edge tech player, come and join them at FinTech Connect 2022."
   },
   {
-    "name": "Blockchain expo",
+    "name": "Blockchain Expo Global",
     "startDate": "1 December 2022",
     "endDate": "2 December 2022",
     "city": "London",
@@ -556,7 +546,7 @@
     "city": "Denver",
     "country": "United States",
     "link": "https://www.mcon.fun/",
-    "twitter": "",
+    "twitter": "https://twitter.com/mcon_world",
     "description": "Bringing together a limited number of attendees, MCON gives you an experience of valuable conversations, learnings and experimental growth all about DAOs."
   },
   {
@@ -626,7 +616,7 @@
     "city": "London",
     "country": "United Kingdom",
     "link": "https://www.europe.token2049.com/",
-    "twitter": "",
+    "twitter": "https://twitter.com/token2049",
     "description": "TOKEN2049 is the premier crypto event, organised annually in Singapore and London, where founders and executives of the leading Web3 companies share their view on the market. We shine a light on the global developments, while taking a unique and widening perspective on the ecosystem and its vast opportunities.\n\n​TOKEN2049 brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media - and creates unparalleled networking opportunities.\n\nThis is the community that will define what’s next in the space."
   },
   {
@@ -648,5 +638,95 @@
     "link": "https://www.eth-vietnam.com/",
     "twitter": "",
     "description": "ETHVietnam is the largest Web3 #BUIDLathon in Vietnam (aka hackathon) for Ethereum and other blockchain protocol enthusiasts, designers, and developers."
+  },
+  {
+    "name": "BTC Amsterdam",
+    "startDate": "12 October 2022",
+    "endDate": "14 October 2022",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "link": "https://b.tc/conference/amsterdam",
+    "twitter": "https://twitter.com/TheBitcoinConf",
+    "description": "Join us in Amsterdam as we bring together the most brilliant minds in Bitcoin, from across Europe and beyond, for 3 days of learning, teaching and inspiring the Bitcoin community.\n\nBitcoin Amsterdam brings the European Bitcoin community to the global stage and will also be a great opportunity to learn, engage and party with other bitcoiners. Let's all come together to collaborate and celebrate the greatest financial innovation in human history!"
+  },
+  {
+    "name": "ETHIndia",
+    "startDate": "2 December 2022",
+    "endDate": "4 December 2022",
+    "city": "Bengaluru",
+    "country": "India",
+    "link": "https://ethindia.co/",
+    "twitter": "",
+    "description": ""
+  },
+  {
+    "name": "Blockchain Expo Europe",
+    "startDate": "20 September 2022",
+    "endDate": "21 September 2022",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "link": "https://blockchain-expo.com/europe/",
+    "twitter": "https://twitter.com/Blockchain_Expo",
+    "description": "Europe’s leading Blockchain exhibition and conference will be hosted on 20-21st September 2022 for its sixth annual event.\n\nThis free to attend conference and exhibition will bring together key industries for two days of top-level content and thought leadership discussions across 6 co-located events at the RAI in Amsterdam and online."
+  },
+  {
+    "name": "Blockchain Expo North America",
+    "startDate": "5 October 2022",
+    "endDate": "6 October 2022",
+    "city": "Santa Clara",
+    "country": "United States",
+    "link": "https://blockchain-expo.com/northamerica/",
+    "twitter": "https://twitter.com/Blockchain_Expo",
+    "description": "The Blockchain Expo North America will return to Santa Clara on the 5-6th October 2022. The Blockchain Expo is a technology conference and exhibition, with thought-leading discussions and top-level content, covering all recent developments in the Blockchain ecosystem.\n\nDon’t miss the opportunity to explore this innovative technology and its impact on a range of industries including; manufacturing, transport, supply chain, government, financial services, energy, insurance, healthcare, retail and more!\n\nAlso with exclusive networking opportunities, the Blockchain Expo is a must for anyone in this exciting technology space."
+  },
+  {
+    "name": "BlackSeaChain 2022",
+    "startDate": "1 September 2022",
+    "endDate": "2 September 2022",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "link": "https://www.blackseachain.com/",
+    "twitter": "https://twitter.com/BlackSeaChain",
+    "description": "BlackSeaChain 2022 brings together blockchain tech and business projects and professionals for a two-day educational and networking event.\n\nWe are here to explore decentralised economy and finance solutions, dive into new blockchain trends and use cases, focus on building transforming technologies, and exchange best practices and ideas."
+  },
+  {
+    "name": "Blockchain in Oil & Gas Conference",
+    "startDate": "14 September 2022",
+    "endDate": "15 September 2022",
+    "city": "Houston",
+    "country": "United States",
+    "link": "https://blockchain-oilandgas.energyconferencenetwork.com/",
+    "twitter": "",
+    "description": "Join the oil and gas blockchain ecosystem to learn, network, innovate, and strategize to maximize your technology investments.\n\nOperators, service companies, EPCs, and industry stakeholders need to increase their level of awareness and understanding of blockchain. As shown in ongoing pilots, blockchain is being applied to commodity transport, JV Management and Seismic Data Management, with many more applications being investigated.\n\nThe conference will highlight opportunities to create industry solution frameworks and guidelines, leveraging blockchain technology to reduce costs, improve timelines and eliminate disputes in any given process.\n\nA key focus of the 2022 conference will be blockchain as an enabler for carbon tracking and mitigation - the generational driver for oil and gas companies today. \n\nThe Oil & Gas industry continues to operate in challenging times with compressed margins, reduced resources, and funding and an ever pressing need to find, extract, produce, and refine hydrocarbons more cost effectively. \n\nBlockchain is part of the solution."
+  },
+  {
+    "name": "DMEXCO 2022",
+    "startDate": "21 September 2022",
+    "endDate": "22 September 2022",
+    "city": "Cologne",
+    "country": "Germany",
+    "link": "https://www.w3.vision/",
+    "twitter": "",
+    "description": "w3.vision’s two-day journey will give you all the insights, and introduce you to the latest and upcoming web3 trends."
+  },
+  {
+    "name": "Web 3.0 for Developers",
+    "startDate": "22 September 2022",
+    "endDate": "22 September 2022",
+    "city": "",
+    "country": "Israel",
+    "link": "https://www.israelcrypto.io/events/web-3.0-for-developers",
+    "twitter": "https://twitter.com/israelcryptoio",
+    "description": "On September 22nd ICC – Israel Crypto Community will host Web 3.0 for developers conference from 13:00 – 21:00 at ZOA TLV.\nThere will be a full day of panel and case studies alongside with practical workshops.\nThe Developer Conference is meant to teach and train developers in skills and information relating to Web 3.0. We want to grow and develop the developers in our community for the future of the internet."
+  },
+  {
+    "name": "Israel Crypto Conference",
+    "startDate": "7 December 2022",
+    "endDate": "8 December 2022",
+    "city": "",
+    "country": "Israel",
+    "link": "https://www.israelcrypto.io/events/israel-crypto-conference",
+    "twitter": "https://twitter.com/israelcryptoio",
+    "description": ""
   }
 ]
