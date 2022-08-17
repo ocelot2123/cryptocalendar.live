@@ -10,7 +10,7 @@
     "twitter": "https://twitter.com/ethcc"
   },
   {
-    "name": "Blockchain Economy Istanbul Sum",
+    "name": "Blockchain Economy Istanbul",
     "startDate": "2022-07-27",
     "endDate": "2022-07-29",
     "city": "Istanbul",
@@ -728,5 +728,55 @@
     "link": "https://www.israelcrypto.io/events/israel-crypto-conference",
     "twitter": "https://twitter.com/israelcryptoio",
     "description": ""
-  }
+  },
+  {
+    "name": "Crypto Gibraltar",
+    "startDate": "22 December 2022",
+    "endDate": "24 December 2022",
+    "city": "Ocean Village",
+    "country": "Gibraltar",
+    "link": "https://cryptogib.gi/",
+    "twitter": "https://twitter.com/CryptoGibEvent",
+    "description": "Gibraltar is now firmly established as one of the leading crypto centres in the world.\n\nFrom implementing the world’s first DLT regulatory framework in 2017 through issuing the first full crypto banking license to introducing new principles to protect against market manipulation just weeks ago, Gibraltar has consistently been at the vanguard of the crypto movement. It is now home to some of the biggest crypto organisations in the world and ranks as the number one jurisdiction in Europe for crypto funds.\n\nCrypto Gibraltar 2021 was the very first crypto event following the pandemic and now we are scaling it up dramatically.\n\nCrypto Gibraltar 2022 will be the first Crypto Festival. We are building our very own Crypto Village which for two days will be home to 1,000 crypto enthusiasts from both the institutional and retail crypto markets.\n\nThere will be educational presentations, debates and insights featuring some of the most respected voices in the industry. There will also be concerts, parties and networking sessions that will help reinforce existing relationships and forge new ones."
+  },
+  {
+    "name": "World Blockchain Expo Dubai",
+    "startDate": "15 October 2022",
+    "endDate": "15 October 2022",
+    "city": "Dubai",
+    "country": "UAE",
+    "link": "https://worldblockchainexpo.io/",
+    "twitter": "https://twitter.com/wbeEvent",
+    "description": "World Blockchain Expo | Gathering the blockchain community, investors, fundraising, crypto exchangers, NFT, metaverse & gaming under one roof"
+    },
+    {
+      "name": "Blockchain Economy Dubai",
+      "startDate": "4 October 2022",
+      "endDate": "5 October 2022",
+      "city": "Dubai",
+      "country": "UAE",
+      "link": "https://beconomydubai.com/",
+      "twitter": "https://twitter.com/BEconomy_HQ",
+      "description": "Blockchain Economy Summit is the world's largest blockchain conference network bringing together the key players of crypto industry and experts to redefine the future of finance. The 5th edition of the Blockchain Economy Summit will take place during two days in Dubai on October 4-5, 2022 with the world's top crypto companies and blockchain entrepreneurs. Today, UAE, specifically Dubai is gearing up to become a global crypto hub. Thus, Blockchain Economy Dubai Summit will be the Main gathering in the region on behalf of the world of blockchain and cryptocurrency, with a wide range of topics focused on the financial technologies of the future, extensive networking opportunities and participation from more than 60 countries."
+    },
+    {
+      "name": "Blockchain Economy London",
+      "startDate": "27 February 2023",
+      "endDate": "28 February 2023",
+      "city": "London",
+      "country": "United Kingdom",
+      "link": "https://blockchaineconomy.london/",
+      "twitter": "https://twitter.com/BEconomy_HQ",
+      "description": "Blockchain Economy Summit is the world's largest blockchain conference network bringing together the key players of crypto industry and experts to redefine the future of finance. The 5th edition of the Blockchain Economy Summit will take place during two days in Dubai on October 4-5, 2022 with the world's top crypto companies and blockchain entrepreneurs. Today, UAE, specifically Dubai is gearing up to become a global crypto hub. Thus, Blockchain Economy Dubai Summit will be the Main gathering in the region on behalf of the world of blockchain and cryptocurrency, with a wide range of topics focused on the financial technologies of the future, extensive networking opportunities and participation from more than 60 countries."
+    },
+    {
+      "name": "Defi Conf 2022",
+      "startDate": "6 October 2023",
+      "endDate": "6 October 2023",
+      "city": "Belfast",
+      "country": "Ireland",
+      "link": "https://deficonf.xyz/#/",
+      "twitter": "https://twitter.com/DeFi_Conf",
+      "description": "DeFi Conf 2022 is an international conference for those shaping the future of the blockchain, digital currencies and digital assets."
+    }
 ]
