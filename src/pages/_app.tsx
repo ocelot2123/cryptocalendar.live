@@ -1,14 +1,15 @@
+import { AppProps } from 'next/app';
+import Head from 'next/head';
+
 import { ChakraProvider } from '@chakra-ui/react';
 
 import theme from '../theme';
-import { AppProps } from 'next/app';
-import Head from 'next/head';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Crypto Calendar Live</title>
+        <title>Crypto Calendar Live - Crypto Events Calendar</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="description"
