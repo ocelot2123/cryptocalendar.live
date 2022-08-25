@@ -778,5 +778,105 @@
       "link": "https://deficonf.xyz/#/",
       "twitter": "https://twitter.com/DeFi_Conf",
       "description": "DeFi Conf 2022 is an international conference for those shaping the future of the blockchain, digital currencies and digital assets."
+    },
+    {
+      "name": "Future Blockchain Summit",
+      "startDate": "10 October 2022",
+      "endDate": "13 October 2022",
+      "city": "Dubai",
+      "country": "UAE",
+      "link": "https://www.futureblockchainsummit.com/",
+      "twitter": "https://twitter.com/dxbontheblock",
+      "description": "The 5th Future Blockchain Summit, the MENA region’s first and largest blockchain conference and exhibition, will return to Dubai World Trade Centre (DWTC) from 10-13 Oct 2022, serving as a meeting point for the world’s most disruptive business technology trends.\n\nOver four days at the Future Blockchain Summit, industry experts will leverage countless networking opportunities, an expert conference programme and transformational workshops to explore distinct themes including blockchain for Enterprise, The Future of Digital Assets and Into the Metaverse."
+    },
+    {
+      "name": "World Blockchain Summit Dubai",
+      "startDate": "17 October 2022",
+      "endDate": "18 October 2022",
+      "city": "Dubai",
+      "country": "UAE",
+      "link": "https://worldblockchainsummit.com/dubai/index",
+      "twitter": "https://twitter.com/tresconglobal",
+      "description": "World Blockchain Summit is a global series of elite gatherings that take place in 19+ destinations across the world.\n\nIt is a thought-leadership-driven initiative that brings together the most important stakeholders from the Blockchain and Cryptocurrency ecosystem such as investors, blockchain and crypto projects, exchanges, enterprises, government representatives, technology leaders - to discuss and deliberate the future of the industry and the revolutionary ways it can transform businesses and government functions.\n\nThe summit also features inspirational keynotes, pitch competitions, panel discussions, investor meet-ups, project showcases, industry use-cases and a host of formal and informal networking opportunities."
+    },
+    {
+      "name": "Democracy4All",
+      "startDate": "11 November 2022",
+      "endDate": "12 November 2022",
+      "city": "Barcelona",
+      "country": "Spain",
+      "link": "https://www.d4a.io/",
+      "twitter": "https://twitter.com/D4Aconf",
+      "description": "The Democracy4all international conference has been held annually since 2019.\n\nIt brings together talent, experts and policymakers to share and discuss the latest advances in technology and regulation. Its orientation makes it a unique event in the world because it focuses on the use of the blockchain as an instrument of democratic improvement in terms of social, corporate and individual governance.\n\nIt offers Catalonia the opportunity to host the most important international conclave for political actors and institutions everywhere, and contributes to speeding up the dialogue between government bodies and new technologies."
+    },
+    {
+      "name": "Eth Gathering Barcelona",
+      "startDate": "18 November 2022",
+      "endDate": "20 November 2022",
+      "city": "Barcelona",
+      "country": "Spain",
+      "link": "https://www.ethgathering.com/",
+      "twitter": "https://twitter.com/ethgathering",
+      "description": "Hosted in one of the world's most vibrant and creative cities, ETH Gathering Barcelona 2022 is a two-day conference focused on the community building the decentralised future."
+    },
+    {
+      "name": "DCENTRAL Miami",
+      "startDate": "28 November 2022",
+      "endDate": "30 November 2022",
+      "city": "Miami",
+      "country": "United States",
+      "link": "https://www.dcentralcon.com/",
+      "twitter": "",
+      "description": "More than just a pure ‘NFT Conference’, at DCENTRAL we bring together the DeFi builders and protocols to connect with NFT collectors, artists, and creators. This is a place where DeFi, DAOs, Metaverses, NFTs, Protocols and developers meet and collaborate all under one roof. Then add in a mix of culture, music, art and entertainment."
+    },
+    {
+      "name": "World Blockchain Summit Bangkok",
+      "startDate": "13 December 2022",
+      "endDate": "14 December 2022",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "link": "https://worldblockchainsummit.com/bangkok/index",
+      "twitter": "https://twitter.com/tresconglobal",
+      "description": "World Blockchain Summit is a global series of elite gatherings that take place in 16+ destinations across the world.\n\nIt is a thought-leadership-driven initiative that brings together the most important stakeholders from the Blockchain and Cryptocurrency ecosystem such as investors, blockchain and crypto projects, exchanges, enterprises, government representatives, technology leaders - to discuss and deliberate the future of the industry and the revolutionary ways it can transform businesses and government functions.\n\nThe summit also features inspirational keynotes, pitch competitions, panel discussions, investor meet-ups, project showcases, industry use-cases and a host of formal and informal networking opportunities.\n\nThe 27th global edition of WBS is taking place in Bangkok in December 2022."
+    },
+    {
+      "name": "The Blockchain Event",
+      "startDate": "14 February 2023",
+      "endDate": "17 February 2023",
+      "city": "Fort Lauderdale",
+      "country": "United States",
+      "link": "https://www.theblockchainevent.com/east/",
+      "twitter": "https://twitter.com/BlockchainEvent",
+      "description": "We are beyond the hype cycle of enterprise blockchain and innovative leaders and technologists are building and implementing live blockchain solutions to adapt to market needs and disrupt their industries.\n\nThe Blockchain Event helps decision-makers, technologists, and developers understand the value of blockchain to their businesses regardless of industry."
+    },
+    {
+      "name": "Blockchain Africa Conference",
+      "startDate": "16 March 2023",
+      "endDate": "17 March 2023",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "link": "https://blockchainafrica.co/",
+      "twitter": "https://twitter.com/BlockchainZA",
+      "description": "wo jam-packed days of featured sessions, keynotes, panels and fireside chats exploring the latest trends and developments in blockchain technology and cryptocurrencies, both in Africa and globally. The conference brings together top thought-leaders and pioneers in the global industry, and creates an ecosystem for all to learn, network, and collaborate with each other."
+    },
+    {
+      "name": "Paris Blockchain Week",
+      "startDate": "22 March 2023",
+      "endDate": "23 March 2023",
+      "city": "Paris",
+      "country": "France",
+      "link": "https://www.pbwsummit.com/",
+      "twitter": "https://twitter.com/pbwsummit",
+      "description": "Paris Blockchain Week is the biggest Blockchain & Digital Assets event in Europe. During one week in the City of Lights, numerous events will be held by the most prominent blockchain organizations.\n\nJoin us for a week of amazing side events organized by our partners to network, share projects and party.\n\nDuring the week, expect meetups, keynotes, workshops, hackathons, conferences, dinners and parties in outstanding venues all around the city. We will discuss the hottest topics in the blockchain and crypto space and make lasting connections with people from all around the world."
+    },
+    {
+      "name": "Decentralized Athens",
+      "startDate": "1 November 2022",
+      "endDate": "3 November 2022",
+      "city": "Athens",
+      "country": "Greece",
+      "link": "https://www.decentralized.com/",
+      "twitter": "https://twitter.com/DecentralizedEu",
+      "description": "Decentralized is the world’s premier learning conference on blockchain and digital currencies."
     }
 ]
