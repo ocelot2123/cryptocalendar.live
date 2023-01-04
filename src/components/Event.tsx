@@ -52,7 +52,7 @@ export const Event: FC<EventProp> = ({ events }) => {
         marginBottom={'30px'}
         textAlign={'center'}
       >
-        Upcoming Events
+        Events
       </Heading>
       <Flex
         width={{ base: '90%', md: '80%', xl: '70%' }}

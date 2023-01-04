@@ -40,9 +40,6 @@ export const EventAccordion: FC<EventAccordionProp> = ({
     {events
       .sort(eventSort)
       .filter(function (event) {
-        return dayjs(event.endDate) > dayjs();
-      })
-      .filter(function (event) {
         return cityFilter ? event.city === cityFilter : true;
       })
       .filter(function (event) {
